@@ -1,0 +1,24 @@
+{
+  "name": "unit-test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "private":"true",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thermiee/Unit-test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thermiee/Unit-test-practice/issues"
+  },
+  "homepage": "https://github.com/Thermiee/Unit-test-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
