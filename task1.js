@@ -2,7 +2,7 @@ const stringLength = (string) => {
     return string.length;
 }
 
-const stringLength2 = () => {
+const stringLength2 = (string) => {
     if (string.length >= 1 && string.length <= 10) {
         return string.length;
     }
